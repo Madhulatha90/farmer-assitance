@@ -1,0 +1,8 @@
+{
+  "name": "Kisan Sahay - Indian Farmer AI Advisor",
+  "description": "A comprehensive AI-powered assistant for Indian farmers providing crop diagnostics, weather alerts, fertilizer advice, and market insights in simple language.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
